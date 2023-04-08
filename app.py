@@ -121,5 +121,3 @@ else:
                                  'Done':'green',
                                  'Doing':'orange'})
 		st.plotly_chart(p1,use_container_width=True)
-
-st.markdown("<br><hr><center>Made with ❤️ by <a href='mailto:palakraghuwanshi626@gmail.com?subject=ToDo WebApp!&body=Please specify the issue you are facing with the app.'><strong>Palak Raghuwanshi</strong></a></center><hr>", unsafe_allow_html=True)
